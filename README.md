@@ -26,7 +26,7 @@ I build and design modern web interfaces with a focus on clarity, usability, and
   <a href="https://www.instagram.com/frinzkaaa_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" alt="Instagram" style="border-radius:9999px;"/>
   </a>
-  <a href="mailto:frinzkadesfrilia@gmail.com">
+  <a href="mailto:frinzkadesfrilia12@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white&labelColor=333333&color=333333" alt="Email" style="border-radius:9999px;"/>
   </a>
 </p>
