@@ -7,20 +7,6 @@ Frontend Developer · UI/UX Designer
 
 </div>
 
----
-
-> 🩵 *Building intuitive interfaces and writing code that feels good.*  
-> Constantly learning, experimenting, and improving one project at a time.  
-
----
-
-#### 🧠 What I’m Into
-- Crafting clean, responsive websites  
-- Exploring **Laravel** + **React**  
-- Designing meaningful digital experiences  
-
----
-
 #### 🛠️ Toolbox
 `HTML` · `CSS` · `JavaScript` · `React` · `Laravel` · `Figma` · `TailwindCSS`
 
@@ -41,14 +27,4 @@ Frontend Developer · UI/UX Designer
     📧 <u>Email</u>
   </a>
 </p>
-
-
-</div>
-
----
-
-<div align="center">
-
-💡 *"Design like an artist. Code like an engineer."*
-
 </div>
