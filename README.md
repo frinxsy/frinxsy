@@ -1,27 +1,50 @@
-<!-- 💙 Frinzka Desfrilia | GitHub Profile -->
+<!-- 💻 Frinzka Desfrilia | Clean Modern GitHub Profile -->
 
-<h1 align="center">Frinzka Desfrilia</h1>
-<p align="center">Frontend & UI/UX Designer</p>
+<div align="center">
 
----
+### 👋 Hey, I’m **Frinzka Desfrilia**
+Frontend Developer · UI/UX Designer  
 
-### 💫 About Me
-I love building stuff that looks good *and* actually works.  
-Turning random ideas into clean, responsive, and user-friendly apps is kinda my thing.  
-Right now, I’m diving deep into **Laravel**, **React**, and all things **modern web dev**.
-
+</div>
 
 ---
 
-### 🌐 Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/frinzka-desfrilia/"><img src="https://img.shields.io/badge/LinkedIn-6ba4ff?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/frinzkaaa_/"><img src="https://img.shields.io/badge/Instagram-89c2ff?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:frinzkadesfrilia@gmail.com"><img src="https://img.shields.io/badge/Email-a7d0ff?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+> 🩵 *Building intuitive interfaces and writing code that feels good.*  
+> Constantly learning, experimenting, and improving — one project at a time.  
 
 ---
 
-<p align="center rounded-full">
-  <i>“Design with clarity, build with purpose.”</i>
-</p>
+#### 🧠 What I’m Into
+- Crafting clean, responsive websites  
+- Exploring **Laravel** + **React**  
+- Designing meaningful digital experiences  
+
+---
+
+#### 🛠️ Toolbox
+`HTML` · `CSS` · `JavaScript` · `React` · `Laravel` · `Figma` · `TailwindCSS`
+
+---
+
+<div align="center">
+
+#### 🌍 Connect with Me  
+<a href="https://www.linkedin.com/in/frinzka-desfrilia/">
+  <img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/frinzkaaa_/">
+  <img src="https://img.shields.io/badge/Instagram-60a5fa?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:frinzkadesfrilia@gmail.com">
+  <img src="https://img.shields.io/badge/Email-93c5fd?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+💡 *"Design like an artist. Code like an engineer."*
+
+</div>
