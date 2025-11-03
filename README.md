@@ -36,9 +36,9 @@ Currently exploring **Laravel**, **React**, and **modern web development practic
 
 ### 🌐 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6ba4ff?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-89c2ff?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-a7d0ff?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/frinzka-desfrilia/"><img src="https://img.shields.io/badge/LinkedIn-6ba4ff?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/frinzkaaa_/"><img src="https://img.shields.io/badge/Instagram-89c2ff?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:frinzkadesfrilia@gmail.com"><img src="https://img.shields.io/badge/Email-a7d0ff?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
