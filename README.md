@@ -1,36 +1,15 @@
 <!-- 💙 Frinzka Desfrilia | GitHub Profile -->
 
 <h1 align="center">Frinzka Desfrilia</h1>
-<p align="center">Frontend & Backend Developer · UI Designer</p>
+<p align="center">Frontend & UI/UX Designer</p>
 
 ---
 
 ### 💫 About Me
-I’m passionate about creating functional and visually balanced digital experiences.  
-I enjoy turning ideas into clean, responsive, and user-centered applications.  
-Currently exploring **Laravel**, **React**, and **modern web development practices**.
+I love building stuff that looks good *and* actually works.  
+Turning random ideas into clean, responsive, and user-friendly apps is kinda my thing.  
+Right now, I’m diving deep into **Laravel**, **React**, and all things **modern web dev**.
 
----
-
-### 🧩 Tech Stack
-- **Frontend:** HTML · CSS · JavaScript · React · TailwindCSS  
-- **Backend:** PHP · Laravel · MySQL  
-- **Design:** Figma · Canva  
-
----
-
-### 🚀 Selected Projects
-- **POS App for Modern Pecel Lele** — Web-based Point of Sale system for food business  
-- **Trimedix Health** — Telemedicine app with QR payment integration  
-- **IT Club Web Projects** — Educational website for student web development  
-
----
-
-### 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frinzkadesfrilia&show_icons=true&theme=blue_navy&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frinzkadesfrilia&layout=compact&theme=blue_navy&hide_border=true" height="165">
-</p>
 
 ---
 
@@ -43,6 +22,6 @@ Currently exploring **Laravel**, **React**, and **modern web development practic
 
 ---
 
-<p align="center">
+<p align="center rounded-full">
   <i>“Design with clarity, build with purpose.”</i>
 </p>
