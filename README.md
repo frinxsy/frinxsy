@@ -10,7 +10,7 @@ Frontend Developer · UI/UX Designer
 ---
 
 > 🩵 *Building intuitive interfaces and writing code that feels good.*  
-> Constantly learning, experimenting, and improving — one project at a time.  
+> Constantly learning, experimenting, and improving one project at a time.  
 
 ---
 
@@ -28,16 +28,20 @@ Frontend Developer · UI/UX Designer
 
 <div align="center">
 
-#### 🌍 Connect with Me  
-<a href="https://www.linkedin.com/in/frinzka-desfrilia/">
-  <img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/frinzkaaa_/">
-  <img src="https://img.shields.io/badge/Instagram-60a5fa?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:frinzkadesfrilia@gmail.com">
-  <img src="https://img.shields.io/badge/Email-93c5fd?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/frinzka-desfrilia/" target="_blank">
+    💼 <u>LinkedIn</u>
+  </a> &nbsp;|&nbsp;
+  <a href="https://www.instagram.com/frinzkaaa_/" target="_blank">
+    📸 <u>Instagram</u>
+  </a> &nbsp;|&nbsp;
+  <a href="mailto:frinzkadesfrilia@gmail.com">
+    📧 <u>Email</u>
+  </a>
+</p>
+
 
 </div>
 
